@@ -70,6 +70,12 @@ const questions = [
       id: 2008,
       question: "開發人員",
       answer: "Developer 👩‍💻"
+    },
+
+    {
+      id: 2009,
+      question: "漂亮",
+      answer: "Beautiful"
     }
 
 
